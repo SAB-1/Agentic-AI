@@ -1,0 +1,6 @@
+Data Analyst and aspiring AI/ML practitioner with a background in Electrical Electronics Engineering and hands-on 
+experience in Python, machine learning frameworks (PyTorch, TensorFlow, Scikit-learn), and data analytics. 
+Experienced in delivering data-driven insights, building dashboards, and translating complex datasets into actionable 
+business recommendations. Actively developing skills in MLOps, GenAI frameworks, and cloud-based ML platforms 
+(Azure ML, Databricks) to transition into production AI/ML solution delivery. Strong communicator and collaborative 
+team player with a proven track record of working across cross-functional teams. 
